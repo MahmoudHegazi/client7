@@ -12,6 +12,9 @@ https://eshop.tesco.com.my/groceries/en-GB/shop/non-food-and-gifting/all (72)
 becuase it's mother fucker site use this code
 https://stackoverflow.com/questions/38215148/python-requests-get-takes-a-long-time-to-respond-to-some-requests
 
+override_images:
+https://stackoverflow.com/questions/60280208/python-beautifulsoup-scraper-not-scraping-images
+
 (image) 
 ```python
 response.xpath("//img[@class='product-image']/@src").extract()

@@ -169,11 +169,11 @@ def targeter():
         newproudct_link = BakeryLinks(url=proudct_link)
         session.add(newproudct_link)
         session.commit()
-    return 'Good Job This APP Made By Python King.'
+    return 'This APP Made By Python King.'
 
 
 
-
+# this is the main file
 
 if __name__ == '__main__':
     app.secret_key = 'AS&S^1234Aoshsheo152h23h5j7ks9-1---3*-s,#k>s'

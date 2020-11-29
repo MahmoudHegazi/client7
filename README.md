@@ -10,7 +10,7 @@ https://eshop.tesco.com.my/groceries/en-GB/shop/non-food-and-gifting/all (72)
 
 
 
-####### scrapy good tool but can not used inside my restful API + you can not run using python keword should be scrapy and thats problem
+###### scrapy good tool but can not used inside my restful API + you can not run using python keword should be scrapy and thats problem
 
 becuase it's mother fucker site use this code
 https://stackoverflow.com/questions/38215148/python-requests-get-takes-a-long-time-to-respond-to-some-requests

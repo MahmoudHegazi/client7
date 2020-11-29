@@ -9,6 +9,9 @@ https://eshop.tesco.com.my/groceries/en-GB/shop/pets/all (6)
 https://eshop.tesco.com.my/groceries/en-GB/shop/non-food-and-gifting/all (72)
 
 
+## my new IDEA create search engine can search for all domains in world and add them to it better than google without complex code
+1. first step found how website like goDady knows is the domain exist or not get the list then search in it
+
 ## how to create search engine:
 https://support.google.com/programmable-search/answer/4513882?hl=en
 
